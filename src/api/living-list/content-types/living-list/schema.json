@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "living_lists",
+  "info": {
+    "singularName": "living-list",
+    "pluralName": "living-lists",
+    "displayName": "Living-list"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "content.list-items"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_episodes_episodes",
+  "info": {
+    "displayName": "episodes",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "release_date": {
+      "type": "date"
+    },
+    "duration": {
+      "type": "string"
+    },
+    "spotify_url": {
+      "type": "string"
+    },
+    "youtube_url": {
+      "type": "string"
+    },
+    "show_notes": {
+      "type": "blocks"
+    }
+  }
+}
