@@ -4,7 +4,8 @@
   "info": {
     "singularName": "living-list",
     "pluralName": "living-lists",
-    "displayName": "Living-list"
+    "displayName": "Living-list",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true

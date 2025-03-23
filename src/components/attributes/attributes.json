@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_attributes_attributes",
+  "info": {
+    "displayName": "Attributes"
+  },
+  "options": {},
+  "attributes": {
+    "overall": {
+      "type": "integer"
+    },
+    "insideScoring": {
+      "type": "integer"
+    },
+    "outsideScoring": {
+      "type": "integer"
+    },
+    "inbetweenScoring": {
+      "type": "integer"
+    },
+    "athleticism": {
+      "type": "integer"
+    },
+    "rebounding": {
+      "type": "integer"
+    },
+    "defense": {
+      "type": "integer"
+    }
+  }
+}

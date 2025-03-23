@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_accolades_accolades",
+  "info": {
+    "displayName": "accolades",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "rings": {
+      "type": "integer"
+    },
+    "mvps": {
+      "type": "integer"
+    },
+    "allNba": {
+      "type": "integer"
+    }
+  }
+}

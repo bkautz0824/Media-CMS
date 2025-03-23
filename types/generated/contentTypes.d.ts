@@ -441,6 +441,7 @@ export interface ApiCategoryCategory extends Struct.CollectionTypeSchema {
 export interface ApiLivingListLivingList extends Struct.CollectionTypeSchema {
   collectionName: 'living_lists';
   info: {
+    description: '';
     displayName: 'Living-list';
     pluralName: 'living-lists';
     singularName: 'living-list';
